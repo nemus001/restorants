@@ -1,0 +1,24 @@
+/*--------------------------------------------------------------
+## Variables
+--------------------------------------------------------------*/
+// Fonts
+$font-default-serif: Georgia, serif;
+$font-default-sans-serif: Arial, Helvetica, sans-serif;
+
+$font-main: $font-default-sans-serif;
+
+// Colors
+$white: #fff;
+$black: #000;
+
+// Transitions
+$dur: 350ms;
+$ease: ease;
+
+// Breakpoints
+$phone: 640;
+$tablet: 991;
+$tablet-l: 1199;
+$lap-small: 1250;
+$lap-large: 1400;
+
