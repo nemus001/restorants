@@ -4,8 +4,8 @@
   "version": "1.1.0",
   "main": "gulpfile.js",
   "bin": {
-      "gen-c": "./cli.js",
-      "gen-p": "./cli-page.js"
+    "gen-c": "./cli.js",
+    "gen-p": "./cli-page.js"
   },
   "dependencies": {
     "autoprefixer": "^9.0.1",
@@ -35,8 +35,8 @@
     "gulp-clean": "^0.4.0"
   },
   "sasslintConfig": "sass-lint.yml",
-  "browserslist" : [
-    "last 3 versions", 
+  "browserslist": [
+    "last 3 versions",
     "ios >= 6"
   ]
 }
