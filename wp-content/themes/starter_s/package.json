@@ -18,7 +18,7 @@
     "gulp-iconfont-css": "^2.1.0",
     "gulp-notify": "^3.0.0",
     "gulp-plumber": "^1.1.0",
-    "gulp-postcss": "^7.0.0",
+    "gulp-postcss": "^9.0.1",
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.1",
     "gulp-svgmin": "^1.2.4",
